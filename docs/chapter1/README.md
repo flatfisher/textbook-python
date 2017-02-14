@@ -1,0 +1,11 @@
+# 基礎
+* [IDLEでHelloWorld](docs/chapter1/lesson2.md)
+* [Print文を学ぶ](docs/chapter1/lesson3.md)
+* [コメントアウトしてみる](docs/chapter1/lesson4.md)
+* [変数を学ぶ](docs/chapter1/lesson5.md)
+* [if文について学ぶ](docs/chapter1/lesson6.md)
+* [for文について学ぶ](docs/chapter1/lesson7.md)
+* [breakとcontinueについて学ぶ](docs/chapter1/lesson8.md)
+* [リストについて学ぶ](docs/chapter1/lesson9.md)
+* [関数作成](docs/chapter1/lesson10.md)
+* [クラス作成](docs/chapter1/lesson11.md)

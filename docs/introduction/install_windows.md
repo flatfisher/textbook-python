@@ -1,21 +1,20 @@
 #Python 3のインストール(Windows)
-[こちらのサイト](https://www.python.org/downloads/)にアクセスしPython3のインストーラーをダウンロードしてください。
+* * * * *
+[こちらから](https://www.python.org/downloads/release/python-344/)Pythonのインストーラーをダウンロードします。
 <br>
-Pythonは現在2系と3系に分かれていますが、今回は3系の最新版をダウンロードしてください。
+
+- 32bitOSの方は「Windows x86-64 MSI installer」をダウンロードします。
+
+- 64bitOSの方は「Windows x86 MSI installer」をダウンロードします。
+
+#インストール
+* * * * *
+インストーラーの指示に従いインストールを行います。
+デフォルトのインストール先だと```C:\Python34\```となっているので、
+```C:\Program Files\Python34\``` と ```Program Files```に
+```Python 34```というフォルダを作成し、そこにインストールします。
 <br>
-Downloads > Windows > Python3.6.0を選択。（2017年1月現在）
 <br>
 <br>
-<br>
-インストーラーにしたがってインストールしてください。
-<br>
-インストールが完了したらコマンドプロンプトを開き下記コマンドを打ちます。
-<br>
-```
-python --version
-```
-<br>
-下記のようにバージョンが表示されればインストール成功です。
-```
-Python 3.6.0
-```
+PythonをインストールするとIDLEというソフトウェアもインストールされます。<br>
+それを使用しPythonを学習します。
