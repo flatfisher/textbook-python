@@ -3,9 +3,9 @@
 [こちらから](https://www.python.org/downloads/release/python-344/)Pythonのインストーラーをダウンロードします。
 <br>
 
-- 32bitOSの方は「Windows x86-64 MSI installer」をダウンロードします。
+- 32bitOSの方は「Windows x86 MSI installer」をダウンロードします。
 
-- 64bitOSの方は「Windows x86 MSI installer」をダウンロードします。
+- 64bitOSの方は「Windows x86-64 MSI installer」をダウンロードします。
 
 #インストール
 * * * * *
