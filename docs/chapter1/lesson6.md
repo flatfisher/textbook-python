@@ -85,3 +85,76 @@ for value in range(0,100):
 4. for文とif文を使い、偶数の時のみ"Hello"と表示させてください。(For6.py) (ヒント if i%2 == 0: )
 5. for文とif文を使い、奇数の時のみ"Hello"と表示させてください。(For6.py) (ヒント if i%2 != 0: )
 6. for文とif文を使い、5の位のときは5それ以外は0と表示させてください。(For7.py)
+
+##breakを使う
+繰り返し処理などをしている時に、ある条件になったら繰り返し処理から抜けたい場合があります。そんな時に使うのが
+breakです。(For8.py)
+
+```
+# -*- coding: utf-8 -*-
+
+# 10回目でforから抜ける処理を作成する
+
+print("繰り返し開始")
+
+for value in range(0,100):
+     print(str(value),"回目の処理")
+
+print("繰り返し終了")
+```
+
+```
+# -*- coding: utf-8 -*-
+
+# 10回目でforから抜ける処理を作成する
+
+print("繰り返し開始")
+
+for value in range(0,100):
+     if value == 10:
+        break
+     print(str(value),"回目の処理")
+
+print("繰り返し終了")
+```
+
+###練習
+1. range(0,100)の条件でfor文を作成し7回目の偶数のときに繰り返し処理を抜けるfor文を作成してください。
+2. range(0,100)の条件でfor文を作成し11回目の奇数のときに繰り返し処理を抜けるfor文を作成してください。
+
+##continueを使う
+繰り返し処理などをしている時に、ある条件になったら処理をスキップしたい場合があります。そんな時に使うのが
+continueです。(For8.py)
+
+```
+# -*- coding: utf-8 -*-
+
+# 10回目でスキップする
+
+print("繰り返し開始")
+
+for value in range(0,100):
+     print(str(value),"回目の処理")
+
+print("繰り返し終了")
+```
+
+```
+# -*- coding: utf-8 -*-
+
+# 10回目をスキップする処理を作成する
+
+print("繰り返し開始")
+
+for value in range(0,100):
+     if value == 10:
+        continue
+
+     print(str(value),"回目の処理")
+
+print("繰り返し終了")
+```
+
+###練習
+1. range(0,100)の条件でfor文を作成し偶数のときにスキップするfor文を作成してください。
+2. range(0,100)の条件でfor文を作成し奇数のときにスキップするfor文を作成してください。
