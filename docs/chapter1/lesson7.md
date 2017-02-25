@@ -35,7 +35,7 @@ print("Hello")
 tohoku_list = ['Aomori','Akita','Iwate','Yamagata','Miyagi','Fukushima']
 ```
 
-リストは0から5番地の5つの値が格納されています。0番地目のAomoriを取得するには以下のように書きます。
+リストは0から5番地の6つの値が格納されています。0番地目のAomoriを取得するには以下のように書きます。
 
 ```
 # -*- coding: utf-8 -*-
