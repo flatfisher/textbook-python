@@ -17,7 +17,3 @@
   * [クラスについて学ぶ](docs/chapter1/lesson9.md)
   * [タプルについて学ぶ](docs/chapter1/lesson10.md)
   * [ディクショナリについて学ぶ](docs/chapter1/lesson11.md)
-* [応用](docs/chapter2/README.md)
-  * [ブラウザを開いてみる](docs/chapter2/lesson1.md)
-  * [アラームを作ってみる](docs/chapter2/lesson2.md)
-  * [指定の時間になったらブラウザを開く](docs/chapter2/lesson3.md)
