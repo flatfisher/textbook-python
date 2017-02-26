@@ -30,8 +30,8 @@ class Person:
         self.age = age
 
 
-person = Person('female',20)
-person = Person('male',21)
+person1 = Person('female',20)
+person2 = Person('male',21)
 
 print(person1)
 print(person2)
