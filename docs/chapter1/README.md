@@ -8,3 +8,5 @@
 * [リストについて学ぶ](docs/chapter1/lesson7.md)
 * [関数について](docs/chapter1/lesson8.md)
 * [クラスについて](docs/chapter1/lesson9.md)
+* [タプルについて学ぶ](docs/chapter1/lesson10.md)
+* [ディクショナリについて学ぶ](docs/chapter1/lesson11.md)
